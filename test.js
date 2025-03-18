@@ -7,4 +7,4 @@ console.log(arr);
 
 // git add .
 // git commit -m "any message"
-// git push -u origin main
+// git push -u origin master
